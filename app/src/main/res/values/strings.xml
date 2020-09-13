@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="article_desc">article description</string>
+    <string name="network_error">Network Error. Try Again?</string>
+    <string name="ok">OK</string>
+    <string name="articleLongivity">Since %1$s</string>
+    <string name="now">Just now</string>
+    <string name="hoursAgo">hours ago</string>
+    <string name="minutesAgo">minute ago</string>
+</resources>
